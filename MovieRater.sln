@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRater.Server", "MovieRater.Server\MovieRater.Server.csproj", "{440D2202-9CEE-40F2-A56D-E9CC265B9A22}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "movierater.client", "movierater.client\movierater.client.esproj", "{5CC6406D-A70A-4FEC-8223-AFFF2D9A0667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{440D2202-9CEE-40F2-A56D-E9CC265B9A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440D2202-9CEE-40F2-A56D-E9CC265B9A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440D2202-9CEE-40F2-A56D-E9CC265B9A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440D2202-9CEE-40F2-A56D-E9CC265B9A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC6406D-A70A-4FEC-8223-AFFF2D9A0667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC6406D-A70A-4FEC-8223-AFFF2D9A0667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC6406D-A70A-4FEC-8223-AFFF2D9A0667}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5CC6406D-A70A-4FEC-8223-AFFF2D9A0667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC6406D-A70A-4FEC-8223-AFFF2D9A0667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC6406D-A70A-4FEC-8223-AFFF2D9A0667}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF77DFD-E2CA-421A-B8EF-1B2A5953ACE2}
+	EndGlobalSection
+EndGlobal
